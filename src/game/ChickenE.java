@@ -24,6 +24,8 @@ public class ChickenE extends JFrame {
 			}
 		}
 		*/
+		
+		/* adding a comment here - Dale */
 	}
 
 	public static void run() {
