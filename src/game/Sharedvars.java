@@ -4,7 +4,7 @@ public class Sharedvars {
 	public static double daylength = 5;// time in seconds
 	public static final String inst = "The Chicken Empire\nThis is the main menu. You can load a previous game session here by chicking load, or you can start a new game by fullscreening.";
 	public static int blimit = -100;
-	public static String song = "BeethovenSymphonyNo92.wav";
+	public static String song = "Data/Sound/BeethovenSymphonyNo92.wav";
 	public static double taxhowoften = 50.0;
 	public static double taxrate = 0.28;
 	public static boolean fullscreen = false;
