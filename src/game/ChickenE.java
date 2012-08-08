@@ -23,6 +23,7 @@ public class ChickenE extends JFrame {
 				Menu.mute(false);
 			}
 		}
+		dale test comment here - git test
 		*/
 		
 		/* adding a comment here - Dale */
